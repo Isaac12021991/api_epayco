@@ -1,0 +1,20 @@
+{
+  "name": "Rose Farmaceutica",
+  "short_name": "Rose Farmaceutica",
+  "description": "Plataforma que permite a las empresas del sector farmacéutico, Anunciar, Comprar, Vender productos a nivel nacional",
+  "background_color": "#ffffff",
+  "theme_color": "#021c1e",
+  "orientation": "portrait",
+  "display": "standalone",
+  "gcm_sender_id": "800137635166",
+  "start_url": "./?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "./img/logo/logo_blanco_rose_farmaceutica.png",
+      "sizes": "500x500",
+      "type": "image/png"
+    }
+  ]
+}
